@@ -1,5 +1,23 @@
 # Employee Retention Issue – a Predictive Analysis
 
+Employee attrition or turnover occurs when an employee leaves the organization.
+It is different from employee discharge, termination, resignation, and abandonment.
+In the case of employee attrition, when the employee leaves the company, employee position remains unfilled.
+In the case of turnover, the position is filled by a replacement employee.
+
+[Link to GitHub](https://github.com/sutharshani/employee_retention)
+
+# Table of Contents
+1. [Introduction](#introduction)
+2. [Data Background](#data-background)
+3. [Prerequisite](#prerequisite)
+4. [Project Status](#project-status) 
+5. [Methods Used](#method-used)
+6. [Versioning](#versioning)
+7. [Authors](#authors)
+8. [Acknowledgement](#acknowledgement)
+9. [Reference](#reference)
+
 ## Introduction
 Here I will discuss how we can build a model that can help HR in identifying employees that can leave the organization
 so that they can work with employees and take corrective measures to reduce the attrition problem related to employees
@@ -65,6 +83,7 @@ In this case study, I am trying to solve employee churn issue and feature attrit
 and this will be the target variable. This tells about whether attrition happened or not.
 So, the target variable will be *Attrition*, and the remaining features will be input attributes which will help us find the target attribute.
 
+[back to top](#table-of-contents)
 ## Prerequisite
 You will need the following applications to execute this project-
 
@@ -73,7 +92,8 @@ You will need the following applications to execute this project-
 
 [back to top](#table-of-contents)
 ## Project Status
-Work in progress. I will be uploading more details soon. \
+Work in progress. I will be uploading more details soon. 
+
 [back to top](#table-of-contents)
 
 ## Method Used
@@ -97,15 +117,21 @@ There are below challenges I will face while working on this analysis.
 [back to top](#table-of-contents)
 
 ## Versioning
-Git is used for project versioning. \
+Git is used for project versioning. 
+
 [back to top](#table-of-contents)
 
 ## Authors
-Shani Kumar \
+Shani Kumar 
+
 [back to top](#table-of-contents)
 
 ## Acknowledgement
 Based on the model's prediction HR will be able to understand about employees at risk of leaving the company. Also,
 from the associated key factors analysis, they will be able to understand why certain employee is at risk and what
 changes they can do that might reduce the risk and employee will remain with the company. \
+[back to top](#table-of-contents)
+
+## Reference
+
 [back to top](#table-of-contents)
