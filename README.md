@@ -133,5 +133,9 @@ changes they can do that might reduce the risk and employee will remain with the
 [back to top](#table-of-contents)
 
 ## Reference
+1. https://medium.com/analytics-vidhya/predict-employee-attrition-a34e2c5a972d
+2. https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
+3. https://www.abacademies.org/articles/predictive-analytics-in-employee-churn-a-systematic-literature-review.pdf
+4. https://esource.dbs.ie/bitstream/handle/10788/3497/msc_salunkhe_t_p_2018.pdf?sequence=1&isAllowed=y
 
 [back to top](#table-of-contents)
